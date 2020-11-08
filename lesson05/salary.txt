@@ -1,0 +1,4 @@
+Ivanov 25000
+Petrov 17500
+Zinovev 12700
+Basharov 32400
